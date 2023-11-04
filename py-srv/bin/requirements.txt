@@ -1,0 +1,4 @@
+bottle
+bottle-sqlalchemy
+mysql-connector-python
+
